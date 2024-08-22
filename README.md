@@ -68,7 +68,6 @@ Dive into specialized applications of prompt engineering, such as content genera
 -   Python 3.7 or later
 -   OpenAI API key
 -   Basic understanding of Python programming
--   Familiarity with machine learning concepts (helpful but not required)
 
 ## Setup Instructions
 
