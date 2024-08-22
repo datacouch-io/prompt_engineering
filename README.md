@@ -8,8 +8,6 @@ Welcome to the  **Prompt Engineering Course**! This course is designed to equip 
 -   [Prerequisites](#prerequisites)
 -   [Setup Instructions](#setup-instructions)
 -   [Usage](#usage)
--   [Contributing](#contributing)
--   [License](#license)
 
 ## Course Structure
 
@@ -68,7 +66,6 @@ Dive into specialized applications of prompt engineering, such as content genera
 -   Python 3.7 or later
 -   OpenAI API key
 -   Basic understanding of Python programming
--   Familiarity with machine learning concepts (helpful but not required)
 
 ## Setup Instructions
 
@@ -112,7 +109,3 @@ Dive into specialized applications of prompt engineering, such as content genera
 -   Each lab is designed to be run independently.
 -   Follow the instructions provided in the notebooks to complete the exercises.
 -   You can modify the code and prompts to experiment with different approaches and see how they affect the output.
-
-## Contributing
-
-Contributions to this repository are welcome! If you have improvements, new lab ideas, or any other suggestions, feel free to fork the repository and submit a pull request.
