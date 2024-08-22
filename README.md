@@ -8,8 +8,6 @@ Welcome to the  **Prompt Engineering Course**! This course is designed to equip 
 -   [Prerequisites](#prerequisites)
 -   [Setup Instructions](#setup-instructions)
 -   [Usage](#usage)
--   [Contributing](#contributing)
--   [License](#license)
 
 ## Course Structure
 
